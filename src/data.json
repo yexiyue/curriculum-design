@@ -1,0 +1,42 @@
+[
+	{
+		"id": "1",
+		"name": "张三",
+		"age": 18,
+		"sex": "男",
+		"telephone": "13650050671",
+		"address": "未知"
+	},
+	{
+		"id": "2",
+		"name": "历史",
+		"age": 19,
+		"sex": "男",
+		"telephone": "1365004471",
+		"address": "未知"
+	},
+	{
+		"id": "25",
+		"name": "历史",
+		"age": 19,
+		"sex": "男",
+		"telephone": "1365004471",
+		"address": "未知"
+	},
+	{
+		"id": "46",
+		"name": "历史",
+		"age": 19,
+		"sex": "男",
+		"telephone": "1365004471",
+		"address": "未知"
+	},
+	{
+		"name": "李四",
+		"age": "25",
+		"sex": "男",
+		"id": "5781554",
+		"address": "dffefe",
+		"telephone": "17939108759"
+	}
+]
